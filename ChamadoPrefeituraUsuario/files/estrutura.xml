@@ -1,0 +1,19 @@
+<chamados>
+    <chamado>
+        <id>000001</id>
+        <data>10/10/2020 as 16:41 horas</data>
+        <contato>Administrador Um</contato>
+        <setor>Selecione</setor>
+        <predio>Selecione</predio>
+        <problema>Descrição do mesmo</problema>
+    </chamado>
+    
+    <chamado>
+        <id>000002</id>
+        <data>10/10/2020 as 16:41 horas</data>
+        <contato>Administrador Um</contato>
+        <setor>Selecione</setor>
+        <predio>Selecione</predio>
+        <problema>Descrição do mesmo</problema>
+    </chamado>
+</chamados>
